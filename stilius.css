@@ -1,0 +1,148 @@
+.pagrindas{
+    background-color: rgb(230, 218, 218);
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 auto;
+    height: 1000px;
+    width: 770px;}  
+.vidine{
+    background-color: rgba(196, 185, 167, 0.866);
+    position: absolute;
+    top: 270px;
+    left: 32px;
+    margin: 0 auto;
+    height: 710px;
+    width: 710px;}
+.box{ 
+    width: 150px;
+    height: 150px;}
+.boxiukas{
+    background-color: grey;
+    top: 30pxpx;
+    left: 552px;} 
+
+.tukstantis{
+    color: grey;
+    font-size: 110px;
+    font-weight: bold;
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    top: 30px;
+    left: 58px; }
+.sakinys{
+    color: grey;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal ; 
+    position: absolute;
+    top: 160px;
+    left: 58px; } 
+.pabrauktas{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold ; 
+    top: 190px;
+    left: 58px;}
+.keturi{
+    color: grey;
+    font-size: 70px;
+    font-weight: bold;
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    top: 30px;
+    left: 58px;} 
+.astuoni{
+    color: bisque;}
+.trimDu{
+    left: 34px; }
+.simtai{
+    left: 16px;}
+.pirmas{
+    background-color:rgb(210, 202, 192);
+    position: absolute;
+    top: 292px;
+    left: 52px;}
+.antras{
+    background-color: rgb(210, 202, 192);
+    position: absolute;
+    top: 464px;
+    left: 52px;}
+.trecias{
+    background-color: rgb(210, 202, 192);
+    position: absolute;
+    top: 636px;
+    left: 52px;}
+.ketvirtas{
+    background-color: rgb(210, 202, 192);
+    position: absolute;
+    top: 808px;
+    left: 52px;}
+.penktas{
+    background-color: bisque;
+    color: grey;
+    position: absolute;
+    top: 292px;
+    left: 224px;}        
+.sestas{
+    background-color: #f2ede8;
+    position: absolute;
+    top: 464px;
+    left: 224px;}  
+.septintas{
+    background-color: rgb(210, 202, 192);
+    position: absolute;
+    top: 636px;
+    left: 224px;}
+.astuntas{
+    background-color: rgb(210, 202, 192);
+    position: absolute;
+    top: 808px;
+    left: 224px;}
+.devintas{
+    background-color: rgb(243, 170, 146);
+    position: absolute;
+    top: 292px;
+    left: 396px;} 
+.desimtas{
+    background-color: tomato;
+    position: absolute;
+    top: 464px;
+    left: 396px;}
+.vienuoliktas{
+    background-color: rgb(210, 202, 192);
+    position: absolute;
+    top: 636px;
+    left: 396px;}
+.dvyliktas{
+    background-color: #f2ede8;
+    position: absolute;
+    top: 808px;
+    left: 396px;}
+.tryliktas{
+    background-color: bisque;
+    position: absolute;
+    top: 292px;
+    left: 568px;}
+.keturiTryliktas{
+        color: grey;
+    font-size: 80px;
+    font-weight: bold;
+    position: absolute;
+    top: 36px;
+    left: 61px;}
+.keturioliktas{
+    background-color:rgb(243, 170, 146) ;
+    position: absolute;
+    top: 464px;
+    left: 568px;}
+.penkioliktas{
+    background-color: rgb(201, 203, 103);
+    position: absolute;
+    top: 636px;
+    left: 568px;}
+.sesioliktas{
+    background-color:rgb(201, 203, 103) ;
+    position: absolute;
+    top: 808px;
+    left: 568px;}
+  
+
